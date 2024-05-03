@@ -2,6 +2,8 @@
 
 This is the first game I did by following the Godot documentation which can be found on their official website.
 
+I created the main music some years ago on Bandlab (you can check it here https://www.bandlab.com/the_silver_nova/albums/6a832051-7acd-ec11-997e-501ac51fccf9).
+
 It was pretty fun.
 
 Next I'll be working on something bigger
